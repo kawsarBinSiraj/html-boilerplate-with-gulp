@@ -1,4 +1,4 @@
 # frontend-boilerplate
 
-### uses: npm install and then - gulp watch
+### How to use: first npm install and then - gulp watch :)
   
