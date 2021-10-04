@@ -1,1 +1,1 @@
-# frontend-boilerplate-with-gulp
+# frontend-boilerplate
