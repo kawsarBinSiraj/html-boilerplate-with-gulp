@@ -29,7 +29,7 @@ function buildStyles() {
  * @modified_by -
  */
 exports.watch = function () {
-  gulp.watch('./app/assets/scss/*.scss', buildStyles);
+  gulp.watch('./app/assets/scss/*.scss', { delay: 500 }, buildStyles);
 };
 
 
